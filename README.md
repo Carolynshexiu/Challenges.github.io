@@ -4,12 +4,6 @@ Join the ITU AI/ML in 5G Challenge in 2023 (Fourth edition), a platform for coll
 The ITU AI/ML in 5G Challenge offers carefully curated problem statements, a mix of real-world and simulated data, technical webinars, mentoring, and hands-on sessions. Teams participating in the Challenge enable, create, train and deploy ML models for communication networks. This enables participants to not only showcase their talent, test their concepts on real data and real-world problems, and compete for global recognition including prize money and certificates, but also enter the world of ITU standards by mapping their solutions to our specifications.
 
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
-    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
