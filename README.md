@@ -8,7 +8,7 @@ The ITU AI/ML in 5G Challenge offers carefully curated problem statements, a mix
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Page with Left and Right Sections</title>
+   
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
