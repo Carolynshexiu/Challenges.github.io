@@ -16,10 +16,13 @@ The ITU AI/ML in 5G Challenge offers carefully curated problem statements, a mix
         <div class="left">
             <!-- Content for the left section -->
             <h2>Past Competitions</h2>
-            <p>"#ML5G Challenge"
-               "#GeoAI Challenge"
-               "#TinyML Challenge"
-               "#AI for Fusion Energy Challenge"
+            <p>
+            <ul>
+        <li><a href="#AI/ML in 5G Challenge">AI/ML in 5G Challenge</a></li>
+        <li><a href="#GeoAI Challenge">GeoAI Challenge</a></li>
+        <li><a href="#TinyML Challenge">TinyML Challenge</a></li>
+        <li><a href="#AI for Fusion Energy Challenge">AI for Fusion Energy Challenge</a></li>
+    </ul>
             </p>
         </div>
         <div class="right">
