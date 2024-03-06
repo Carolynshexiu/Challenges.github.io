@@ -15,12 +15,12 @@ The ITU AI/ML in 5G Challenge offers carefully curated problem statements, a mix
     <div class="container">
         <div class="left">
             <!-- Content for the left section -->
-            <h2>Left Section</h2>
+            <h2>Past Competitions</h2>
             <p>This is the content of the left section.</p>
         </div>
         <div class="right">
             <!-- Content for the right section -->
-            <h2>Right Section</h2>
+            <h2> Winners </h2>
             <p>This is the content of the right section.</p>
         </div>
     </div>
